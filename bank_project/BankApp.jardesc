@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="WINDOWS-1250" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Sebastian/Desktop/bd2 koniec/BankApplication.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/bank_project/BankApp.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=bank_project/src"/>
+        <file path="/bank_project/bank_project.iml"/>
+        <file path="/bank_project/bank.properties"/>
+        <folder path="/bank_project/lib"/>
+    </selectedElements>
+</jardesc>
